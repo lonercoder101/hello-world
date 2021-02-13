@@ -1,4 +1,2 @@
 # hello-world
-New Here
-JS and CSS sikhado koi
-
+What's this place ? 
